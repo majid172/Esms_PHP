@@ -1,0 +1,75 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.sec1{
+	background-image: url('img/index.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 550px;
+    background-color: black;
+	margin-top: 60px;
+}
+
+.sec2{
+	background-image: url('img/index.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 550px;
+    background-color: black;
+	margin-top: 60px;
+}
+
+#navtext{
+	text-align: right;
+	padding-left: 350px;
+}
+
+.header{
+	color: white;
+	padding: 120px 60px 0 60px;
+	margin-top: 30px;
+}
+.sec1 p{
+	padding: 20px 60px 0 60px;
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+}
+#accbox{
+	margin-top: 40px;
+	padding: 90px 60px 0 60px;
+	width: 70%;
+	background: #ececec;
+	border-radius: 20px;
+	
+}
+#accbox p{
+	margin-top: -20px;
+	padding: 20px 10px 0 10px;
+}
+
+
+/*section3*/
+.services1 i{
+	font-size: 100px;
+	color: #24CBB7;
+}
+.services2 i{
+	font-size: 100px;
+	color: #F397CB;
+}
+.services3 i{
+	font-size: 100px;
+	color: #38EA91;
+}
+.card img{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+footer i{
+	font-size: 25px;
+}
